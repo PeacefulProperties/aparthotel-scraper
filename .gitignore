@@ -1,0 +1,5 @@
+# Keine geheimen Dateien hochladen
+.env
+__pycache__/
+venv/
+*.log
